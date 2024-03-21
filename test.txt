@@ -1,2 +1,2 @@
 this is a text file
-2nd line entered
+2nd line entering for test
